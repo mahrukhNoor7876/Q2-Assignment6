@@ -8,9 +8,9 @@ interface CarsData{
     "id": number,
     "title": string,
     "price": string,
-    "image": any,
+    "image": string,
     "reviews": string,
-    "link": any
+    "link": string
 }
 
 export default function FeaturedCars(){
